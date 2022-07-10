@@ -11,8 +11,8 @@ FullCalendar を React プロジェクトにダウンロードし、カレンダ
 
 ```
 
-git clone https://github.com/aya030/react-fullcalendar.git
-cd react-fullcalendar
+git clone https://github.com/aya030/react-fullcalendarApp.git
+cd react-fullcalendarApp
 npm install
 
 ```
